@@ -21,7 +21,7 @@ conda install matplotlib
 
 ### Usage:
 ```
-python SuperLearn.py
+python learning-starter.py
 ```
 
 
