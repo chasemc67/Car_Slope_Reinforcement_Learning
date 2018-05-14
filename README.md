@@ -9,17 +9,19 @@ Through many iterations, the Agent is able to learn to get the car out of the sl
 ### Requirements:
 ```
 python 2.7
+conda install matplotlib
 ```
 
 ### Installing Requirements:
 ```
 conda create --name python27 python=2.7
 source activate python27
+conda install matplotlib
 ```
 
 ### Usage:
 ```
-python learning-starter.py
+python SuperLearn.py
 ```
 
 
